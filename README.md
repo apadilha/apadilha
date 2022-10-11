@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao meu GitHub😁
+## Bem-vindo(a) ao meu perfil😁
+## Hi, Welcome to my profile😁
+## 私のプロフィールへようこそ 😁
 
  <div>
    <a href="https://github.com/apadilha">
