@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao meu perfil😁
-## Hi, Welcome to my profile😁
-## 私のプロフィールへようこそ 😁
+<h3>Bem-vindo(a) ao meu perfil😁</h3>
+<h3>Hi, Welcome to my profile😁</h3>
+<h3>私のプロフィールへようこそ 😁</h3>
 
  <div>
    <a href="https://github.com/apadilha">
@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Redes Sociais! 
+  ### <h3>Redes Sociais! </h3>
 <div>   
   <a href="https://instagram.com/apadilha012022" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
  <a href="https://discord.gg/padilha#0208" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
