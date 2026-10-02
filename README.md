@@ -53,7 +53,8 @@
 </picture>
 
 
-![Snake animation](https://github.com/Apadilha/Apadilha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Apadilha/Apadilha/output/github-contribution-grid-snake.svg)
+
 
 
 
