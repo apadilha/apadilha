@@ -250,3 +250,47 @@ de resolver problemas utilizando programação.
         📚 Aprender novamente
                │
                └──────────────► 🚀
+
+```
+
+💭 Filosofia
+<div align="center">
+🚀 Cada linha de código é uma oportunidade para aprender algo novo.
+
+</div>
+Estou sempre buscando evoluir, aprender novas tecnologias e transformar
+conhecimento em projetos.
+
+📌 Projetos
+Alguns dos meus projetos podem ser encontrados aqui no GitHub.
+
+<div align="center"> <a href="https://github.com/Apadilha?tab=repositories">
+<img
+src="https://img.shields.io/badge/Ver%20meus%20reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white"
+alt="Meus repositórios"
+
+</a> </div>
+
+
+
+👀 Visitas ao perfil
+<div align="center">
+<img
+src="https://komarev.com/ghpvc/?username=Apadilha&color=blueviolet&style=for-the-badge"
+alt="Profile views"
+
+</div>
+
+🤝 Obrigado pela visita!
+<div align="center">
+🚀 Seja bem-vindo ao meu GitHub!
+Obrigado por visitar meu perfil.
+
+Continue aprendendo. Continue criando. Continue evoluindo. 💻🔥
+
+<br>
+⭐ Se algum projeto chamou sua atenção, fique à vontade para explorar!
+
+
+
+
